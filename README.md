@@ -69,3 +69,7 @@ O Coffee Break é um projeto que visa facilitar a gestão da quantidade de café
     </td>
   </tr>
 </table>
+
+## License
+
+[MIT](https://github.com/P-E-N-T-E-S/Kolekto/blob/master/LICENSE.md)
