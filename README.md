@@ -4,7 +4,7 @@
 
 O Coffee Break é um projeto que visa facilitar a gestão da quantidade de café disponível em um recipiente, como uma garrafa térmica ou uma jarra. A balança conectada ao Arduino mede o peso do recipiente e do café, permitindo determinar quando o nível de café está baixo e exibir essa informação de maneira conveniente no display.
 
-## Funcionalidades Principais
+## Funcionalidades Principais 📑
 
 - **Medição de Peso:** A balança, juntamente com o Arduino, realiza a medição precisa do peso do recipiente e do café.
 
@@ -14,7 +14,7 @@ O Coffee Break é um projeto que visa facilitar a gestão da quantidade de café
 
 - **Facilidade de Uso:** A interface do usuário é projetada para ser intuitiva e autoexplicativa, exigindo pouca ou nenhuma interação do usuário.
 
-## Componentes Utilizados
+## Componentes Utilizados ⚙️
 
 - **Arduino:** Placa de desenvolvimento utilizada para controlar a balança e gerenciar a exibição das informações.
 
@@ -23,7 +23,7 @@ O Coffee Break é um projeto que visa facilitar a gestão da quantidade de café
 - **Display LCD:** Um display de cristal líquido para exibir as informações sobre o café.
 
 
-## Membros
+## Membros 👨‍🏭
 
 <table>
   <tr>
